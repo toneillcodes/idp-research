@@ -1,5 +1,7 @@
 # IdP Research
-This is a collection of resources and notes that I have compiled.  
+## Introduction
+An Identity Provider (IdP) is a trusted system that delivers authentication capabilities to applications and services across the enterprise.  
+In today's organizations, where on-premises infrastructure and SaaS platforms coexist, IdPs play a central role in securing access within environments where traditional boundaries are increasingly blurred.
 ## Topics
 * [IdP Research Methodology](notes/idp-research-methodology.md)
 * [IdP Abuse Primitives](notes/idp-abuse-primitives.md)
